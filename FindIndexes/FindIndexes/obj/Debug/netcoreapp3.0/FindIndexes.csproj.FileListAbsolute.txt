@@ -1,0 +1,10 @@
+C:\Users\Vivo\Desktop\TestTask\FindIndexes\FindIndexes\bin\Debug\netcoreapp3.0\FindIndexes.exe
+C:\Users\Vivo\Desktop\TestTask\FindIndexes\FindIndexes\bin\Debug\netcoreapp3.0\FindIndexes.deps.json
+C:\Users\Vivo\Desktop\TestTask\FindIndexes\FindIndexes\bin\Debug\netcoreapp3.0\FindIndexes.runtimeconfig.json
+C:\Users\Vivo\Desktop\TestTask\FindIndexes\FindIndexes\bin\Debug\netcoreapp3.0\FindIndexes.runtimeconfig.dev.json
+C:\Users\Vivo\Desktop\TestTask\FindIndexes\FindIndexes\bin\Debug\netcoreapp3.0\FindIndexes.dll
+C:\Users\Vivo\Desktop\TestTask\FindIndexes\FindIndexes\bin\Debug\netcoreapp3.0\FindIndexes.pdb
+C:\Users\Vivo\Desktop\TestTask\FindIndexes\FindIndexes\obj\Debug\netcoreapp3.0\FindIndexes.AssemblyInfoInputs.cache
+C:\Users\Vivo\Desktop\TestTask\FindIndexes\FindIndexes\obj\Debug\netcoreapp3.0\FindIndexes.AssemblyInfo.cs
+C:\Users\Vivo\Desktop\TestTask\FindIndexes\FindIndexes\obj\Debug\netcoreapp3.0\FindIndexes.dll
+C:\Users\Vivo\Desktop\TestTask\FindIndexes\FindIndexes\obj\Debug\netcoreapp3.0\FindIndexes.pdb
